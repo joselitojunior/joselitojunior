@@ -1,5 +1,9 @@
 ## Oiii, eu sou o Joselito Júnior! Estudante de Engenharia de Software :)
 
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joselitojunior&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
